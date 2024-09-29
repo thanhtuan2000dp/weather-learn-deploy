@@ -28,6 +28,7 @@ export default function HomeContainer() {
         Result:
         <Typography>{JSON.stringify(result)}</Typography>
       </Box>
+      <Typography>Text CICD</Typography>
     </Box>
   );
 }
